@@ -8,7 +8,7 @@ namespace TestStudente
     {
         private int eta;
         private List<LIbro> libri = new List<LIbro>();
-        
+
         public Studente(string nome, string cognome, int eta)
         {
             this.Nome = nome;
